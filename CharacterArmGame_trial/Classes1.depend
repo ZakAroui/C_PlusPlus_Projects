@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1330470913 source:c:\users\admin\c++_directory\classes1\main.cpp
+	<iostream>
+	"Person.h"
+	"Arm.h"
+	<string>
+
+1330466996 c:\users\admin\c++_directory\classes1\person.h
+	<iostream>
+	<string>
+	"Arm.h"
+
+1330470180 source:c:\users\admin\c++_directory\classes1\person.cpp
+	"Person.h"
+
+1330466431 c:\users\admin\c++_directory\classes1\arm.h
+	<iostream>
+	<string>
+
+1330466438 source:c:\users\admin\c++_directory\classes1\arm.cpp
+	"Arm.h"
+
